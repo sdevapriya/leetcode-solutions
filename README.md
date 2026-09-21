@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sdevapriya/leetcode-solutions/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sdevapriya/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sdevapriya/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
