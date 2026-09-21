@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sdevapriya/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sdevapriya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sdevapriya/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
