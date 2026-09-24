@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
