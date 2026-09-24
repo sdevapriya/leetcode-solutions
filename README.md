@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sdevapriya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -86,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
