@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sdevapriya/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/sdevapriya/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sdevapriya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sdevapriya/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
