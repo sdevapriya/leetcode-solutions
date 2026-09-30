@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sdevapriya/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/sdevapriya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sdevapriya/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/sdevapriya/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -102,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
