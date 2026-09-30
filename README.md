@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sdevapriya/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sdevapriya/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sdevapriya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sdevapriya/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-reverse-only-letters](https://github.com/sdevapriya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/sdevapriya/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/sdevapriya/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/sdevapriya/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
