@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sdevapriya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,9 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sdevapriya/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sdevapriya/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
