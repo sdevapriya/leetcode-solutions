@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/sdevapriya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sdevapriya/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sdevapriya/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/sdevapriya/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sdevapriya/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
